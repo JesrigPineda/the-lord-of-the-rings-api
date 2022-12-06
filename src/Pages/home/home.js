@@ -9,7 +9,7 @@ const Home = () => {
     const [getAnotherQuote, setGetAnotherQuote] = useState(false);
 
     const changeStatus = () => {
-        console.log(getAnotherQuote)
+
         if(!getAnotherQuote){
             setGetAnotherQuote(true)
         }else{

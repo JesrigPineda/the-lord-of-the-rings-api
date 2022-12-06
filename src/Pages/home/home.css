@@ -15,7 +15,7 @@
     height: 100%;
   }
 
-  @media (max-width: 375px) {
+  @media (max-width: 425px) {
     .main-header {
         background: url(../../img/banner2.jpg);
         background-size: cover;
