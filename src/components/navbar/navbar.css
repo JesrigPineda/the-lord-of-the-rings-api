@@ -1,0 +1,26 @@
+.bg-dark {
+    background: transparent !important;
+  }
+
+.logo{
+    width: 40%;
+}
+
+.navbar-toggler{
+    background: #f9cf58;
+}
+
+.navbar-collapse{
+    justify-content: flex-end;
+    text-align: center;
+}
+
+.nav-link {
+    color: rgb(255, 255, 255)!important;
+  }
+  
+@media (max-width: 519px) {
+    .navbar-brand{
+        width: 75%;
+    }
+}
